@@ -1,4 +1,4 @@
-title: WhiteWert web studio is at your service!
+## WhiteWert web studio is at your service!
 description: Creation and improvement of sites and their subsequent promotion on the Internet!
 You can use the [editor on GitHub](https://github.com/whitewert/whitewert.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
